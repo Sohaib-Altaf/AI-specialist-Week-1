@@ -1,4 +1,8 @@
 # AI-specialist-Week-1
- my first week in intership
-<br>
-Author - Sohaib Altaf
+# Internship Project
+
+## Description
+A simple Python project created for internship practice.
+
+## Author
+Sohaib Khan
